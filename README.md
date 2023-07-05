@@ -1,2 +1,4 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Completed Repo
+I have successfully finished four tasks of this program by lyft.
+
+
